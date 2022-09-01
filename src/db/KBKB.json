@@ -1,0 +1,20 @@
+{
+  "KBKB0000001": {
+    "BANK": "Kookmin Bank",
+    "IFSC": "KBKB0000001",
+    "MICR": "110240273",
+    "BRANCH": "RTGS-HO",
+    "ADDRESS": "UNIT 2B/2, 2nd FLOOR, TWO HORIZON CENTER, GOLF COURSE ROAD, PHASE 5, SECTOR 43, GURUGRAM 122002",
+    "STATE": "HARYANA",
+    "CONTACT": "+911244532222",
+    "UPI": false,
+    "RTGS": true,
+    "CITY": "GURUGRAM",
+    "CENTRE": "GURUGRAM",
+    "DISTRICT": "GURUGRAM",
+    "NEFT": true,
+    "IMPS": true,
+    "SWIFT": null,
+    "ISO3166": "IN-HR"
+  }
+}

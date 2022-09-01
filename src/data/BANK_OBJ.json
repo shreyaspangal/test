@@ -1,0 +1,978 @@
+[
+    {
+        "BANK": "Royal Bank of Scotland N.V.",
+        "IFSC": "ABNA0000001"
+    },
+    {
+        "BANK": "Akola District Central Co-operative Bank",
+        "IFSC": "ADCC0000001"
+    },
+    {
+        "BANK": "Airtel Payments Bank",
+        "IFSC": "AIRP0000001"
+    },
+    {
+        "BANK": "Abhyudaya Co-operative Bank",
+        "IFSC": "ABHY0065001"
+    },
+    {
+        "BANK": "Ahmednagar District Central Co-operative Bank",
+        "IFSC": "AHDC0000001"
+    },
+    {
+        "BANK": "Allahabad Bank",
+        "IFSC": "ALLA0888888"
+    },
+    {
+        "BANK": "Ajara Urban Co-operative Bank",
+        "IFSC": "AJAR0000001"
+    },
+    {
+        "BANK": "Akola Janata Commercial Co-operative Bank",
+        "IFSC": "AKJB0000001"
+    },
+    {
+        "BANK": "Ahmedabad Mercantile Co-operative Bank",
+        "IFSC": "AMCB0660002"
+    },
+    {
+        "BANK": "Ambarnath Jai-hind Co-operative Bank",
+        "IFSC": "AJHC0000001"
+    },
+    {
+        "BANK": "Australia and New Zealand Banking Group",
+        "IFSC": "ANZB0000001"
+    },
+    {
+        "BANK": "Andhra Bank",
+        "IFSC": "ANDB0TRESUY"
+    },
+    {
+        "BANK": "Ahmednagar Merchants Co-operative Bank",
+        "IFSC": "AMDN0000001"
+    },
+    {
+        "BANK": "Arvind Sahakari Bank",
+        "IFSC": "ARBL0000001"
+    },
+    {
+        "BANK": "A.P. Mahesh Co-operative Urban Bank",
+        "IFSC": "APMC0000001"
+    },
+    {
+        "BANK": "Andhra Pradesh State Co-operative Bank",
+        "IFSC": "APBL0000001"
+    },
+    {
+        "BANK": "Andhra Pragathi Grameena Bank",
+        "IFSC": "APGB0000001"
+    },
+    {
+        "BANK": "Apna Sahakari Bank",
+        "IFSC": "ASBL0000001"
+    },
+    {
+        "BANK": "Andhra Pradesh Grameena Vikas Bank",
+        "IFSC": "APGV0000001"
+    },
+    {
+        "BANK": "Bassein Catholic Co-operative Bank",
+        "IFSC": "BACB0000001"
+    },
+    {
+        "BANK": "AU Small Finance Bank",
+        "IFSC": "AUBL0000001"
+    },
+    {
+        "BANK": "Almora Urban Co-operative Bank",
+        "IFSC": "AUCB0000001"
+    },
+    {
+        "BANK": "Baramati Sahakari Bank",
+        "IFSC": "BARA0000001"
+    },
+    {
+        "BANK": "Barclays Bank",
+        "IFSC": "BARC0INBB01"
+    },
+    {
+        "BANK": "Bank of Ceylon",
+        "IFSC": "BCEY0000001"
+    },
+    {
+        "BANK": "Bharat Co-operative Bank",
+        "IFSC": "BCBM0000001"
+    },
+    {
+        "BANK": "Dena Bank",
+        "IFSC": "BKDN0RTGSSC"
+    },
+    {
+        "BANK": "Bank of Bahrein and Kuwait",
+        "IFSC": "BBKM0000001"
+    },
+    {
+        "BANK": "Bombay Mercantile Co-operative Bank",
+        "IFSC": "BMCB0000001"
+    },
+    {
+        "BANK": "Bhagini Nivedita Sahakari Bank Pune",
+        "IFSC": "BNSB0000001"
+    },
+    {
+        "BANK": "BNP Paribas Bank",
+        "IFSC": "BNPA0009008"
+    },
+    {
+        "BANK": "Bank of America",
+        "IFSC": "BOFA0BG3978"
+    },
+    {
+        "BANK": "Citizen Credit Co-operative Bank",
+        "IFSC": "CCBL0209002"
+    },
+    {
+        "BANK": "MUFG Bank",
+        "IFSC": "BOTM0003611"
+    },
+    {
+        "BANK": "CITI Bank",
+        "IFSC": "CITI0000001"
+    },
+    {
+        "BANK": "JP Morgan Chase Bank NA",
+        "IFSC": "CHAS0INBX01"
+    },
+    {
+        "BANK": "Corporation Bank",
+        "IFSC": "CORP0000920"
+    },
+    {
+        "BANK": "City Union Bank",
+        "IFSC": "CIUB0000001"
+    },
+    {
+        "BANK": "Credit Suisse AG",
+        "IFSC": "CRES0000001"
+    },
+    {
+        "BANK": "Capital Small Finance Bank",
+        "IFSC": "CLBL0000001"
+    },
+    {
+        "BANK": "Coastal Local Area Bank",
+        "IFSC": "COAS0000001"
+    },
+    {
+        "BANK": "Cosmos Co-operative Bank",
+        "IFSC": "COSB0000001"
+    },
+    {
+        "BANK": "Credit Agricole Corporate and Investment Bank",
+        "IFSC": "CRLY0000001"
+    },
+    {
+        "BANK": "Shri Chhatrapati Rajashri Shahu Urban Co-operative Bank",
+        "IFSC": "CRUB0000001"
+    },
+    {
+        "BANK": "Chinatrust Commercial Bank",
+        "IFSC": "CTCB0000001"
+    },
+    {
+        "BANK": "Chartered Sahakari Bank Niyamitha",
+        "IFSC": "CSBX0CSB001"
+    },
+    {
+        "BANK": "Chhattisgarh Rajya Gramin Bank",
+        "IFSC": "CRGB0000001"
+    },
+    {
+        "BANK": "Darussalam Co-operative Urban Bank",
+        "IFSC": "DCUB0000001"
+    },
+    {
+        "BANK": "DCB Bank",
+        "IFSC": "DCBL0000001"
+    },
+    {
+        "BANK": "Deposit Insurance and Credit Guarantee Corporation",
+        "IFSC": "DICG0000002"
+    },
+    {
+        "BANK": "Development Bank of Singapore",
+        "IFSC": "DBSS0IN0103"
+    },
+    {
+        "BANK": "Catholic Syrian Bank",
+        "IFSC": "CSBK0000001"
+    },
+    {
+        "BANK": "Deogiri Sahakari Bank Aurangabad",
+        "IFSC": "DEOB0000001"
+    },
+    {
+        "BANK": "Deutsche Bank",
+        "IFSC": "DEUT0000PBC"
+    },
+    {
+        "BANK": "Delhi State Co-operative Bank",
+        "IFSC": "DLSC0000001"
+    },
+    {
+        "BANK": "HSBC Bank Oman S.A.O.G",
+        "IFSC": "DOHB0000001"
+    },
+    {
+        "BANK": "Dombivli Nagari Sahakari Bank",
+        "IFSC": "DNSB0000001"
+    },
+    {
+        "BANK": "Dattatraya Maharaj Kalambe Jaoli Sahakari Bank",
+        "IFSC": "DMKJ0000001"
+    },
+    {
+        "BANK": "Export Import Bank of India",
+        "IFSC": "EIBI0HO0001"
+    },
+    {
+        "BANK": "Durgapur Steel Peoples Co-operative Bank",
+        "IFSC": "DURG0000001"
+    },
+    {
+        "BANK": "Dhanlaxmi Bank",
+        "IFSC": "DLXB0000001"
+    },
+    {
+        "BANK": "Emirates NBD Bank",
+        "IFSC": "EBIL0000001"
+    },
+    {
+        "BANK": "Firstrand Bank",
+        "IFSC": "FIRN0000001"
+    },
+    {
+        "BANK": "Equitas Small Finance Bank",
+        "IFSC": "ESFB0000001"
+    },
+    {
+        "BANK": "Fincare Small Finance Bank ",
+        "IFSC": "FSFB0000001"
+    },
+    {
+        "BANK": "Fino Payments Bank",
+        "IFSC": "FINO0000001"
+    },
+    {
+        "BANK": "ESAF Small Finance Bank",
+        "IFSC": "ESMF0000001"
+    },
+    {
+        "BANK": "Greater Bombay Co-operative Bank",
+        "IFSC": "GBCB0000001"
+    },
+    {
+        "BANK": "Gadchiroli District Central Co-operative Bank",
+        "IFSC": "GDCB0000001"
+    },
+    {
+        "BANK": "Haryana State Co-operative Apex Bank",
+        "IFSC": "HARC0000001"
+    },
+    {
+        "BANK": "Hasti Co-operative Bank",
+        "IFSC": "HCBL0000001"
+    },
+    {
+        "BANK": "Hongkong & Shanghai Banking Corporation",
+        "IFSC": "HSBC0110002"
+    },
+    {
+        "BANK": "Woori Bank",
+        "IFSC": "HVBK0000001"
+    },
+    {
+        "BANK": "Hutatma Sahakari Bank",
+        "IFSC": "HUSB0000001"
+    },
+    {
+        "BANK": "PT Bank Maybank Indonesia TBK",
+        "IFSC": "IBBK0000001"
+    },
+    {
+        "BANK": "Himachal Pradesh State Co-operative Bank",
+        "IFSC": "HPSC0000001"
+    },
+    {
+        "BANK": "Industrial Bank of Korea",
+        "IFSC": "IBKO0000001"
+    },
+    {
+        "BANK": "Industrial and Commercial Bank of China",
+        "IFSC": "ICBK0000001"
+    },
+    {
+        "BANK": "Indian Clearing Corporation",
+        "IFSC": "ICLL0000001"
+    },
+    {
+        "BANK": "India Post Payments Bank",
+        "IFSC": "IPOS0000001"
+    },
+    {
+        "BANK": "Idukki District Co-operative Bank",
+        "IFSC": "IDUK0000001"
+    },
+    {
+        "BANK": "IDFC FIRST Bank",
+        "IFSC": "IDFB0000001"
+    },
+    {
+        "BANK": "Irinjalakuda Town Co-operative Bank",
+        "IFSC": "ITBL0000001"
+    },
+    {
+        "BANK": "Jio Payments Bank",
+        "IFSC": "JIOP0000001"
+    },
+    {
+        "BANK": "Janaseva Sahakari Bank (Borivli)",
+        "IFSC": "JASB0000001"
+    },
+    {
+        "BANK": "Jalgaon Peoples Co-operative Bank",
+        "IFSC": "JPCB0000001"
+    },
+    {
+        "BANK": "Jalgaon Janata Bank",
+        "IFSC": "JJSB0000001"
+    },
+    {
+        "BANK": "Janata Sahakari Bank (Pune)",
+        "IFSC": "JSBP0000001"
+    },
+    {
+        "BANK": "Janaseva Sahakari Bank, Pune",
+        "IFSC": "JANA0000001"
+    },
+    {
+        "BANK": "Janakalyan Sahakari Bank",
+        "IFSC": "JSBL0000001"
+    },
+    {
+        "BANK": "Jammu and Kashmir Bank",
+        "IFSC": "JAKA0AALLAH"
+    },
+    {
+        "BANK": "Jana Small Finance Bank",
+        "IFSC": "JSFB0000001"
+    },
+    {
+        "BANK": "Kangra Central Co-operative Bank",
+        "IFSC": "KACE0000001"
+    },
+    {
+        "BANK": "Kallappanna Awade Ichalkaranji Janata Sahakari Bank",
+        "IFSC": "KAIJ0000001"
+    },
+    {
+        "BANK": "Kookmin Bank",
+        "IFSC": "KBKB0000001"
+    },
+    {
+        "BANK": "Kangra Co-operative Bank",
+        "IFSC": "KANG0000001"
+    },
+    {
+        "BANK": "Janatha Seva Co-operative Bank",
+        "IFSC": "JTSC0000001"
+    },
+    {
+        "BANK": "Kalyan Janata Sahakari Bank",
+        "IFSC": "KJSB0000001"
+    },
+    {
+        "BANK": "Kozhikode District Co-operative Bank",
+        "IFSC": "KDCB0000001"
+    },
+    {
+        "BANK": "Karnataka Bank",
+        "IFSC": "KARB0000001"
+    },
+    {
+        "BANK": "KEB Hana Bank",
+        "IFSC": "KOEX0000001"
+    },
+    {
+        "BANK": "Kerala Gramin Bank",
+        "IFSC": "KLGB0000001"
+    },
+    {
+        "BANK": "Kalupur Commercial Co-operative Bank",
+        "IFSC": "KCCB0AKL045"
+    },
+    {
+        "BANK": "Kurmanchal Nagar Sahakari Bank",
+        "IFSC": "KNSB0000001"
+    },
+    {
+        "BANK": "Kolhapur Urban Co-operative Bank",
+        "IFSC": "KOLH0000001"
+    },
+    {
+        "BANK": "Karnataka State Co-operative Apex Bank",
+        "IFSC": "KSCB0000001"
+    },
+    {
+        "BANK": "Karad Urban Co-operative Bank",
+        "IFSC": "KUCB0488000"
+    },
+    {
+        "BANK": "Laxmi Vilas Bank",
+        "IFSC": "LAVB0000883"
+    },
+    {
+        "BANK": "Kerala State Co-operative Bank",
+        "IFSC": "KSBK0000001"
+    },
+    {
+        "BANK": "Karur Vysya Bank",
+        "IFSC": "KVBL0001101"
+    },
+    {
+        "BANK": "Maharashtra Gramin Bank",
+        "IFSC": "MAHG0000001"
+    },
+    {
+        "BANK": "Karnataka Vikas Grameena Bank",
+        "IFSC": "KVGB0000001"
+    },
+    {
+        "BANK": "Model Co-operative Bank",
+        "IFSC": "MDBK0000001"
+    },
+    {
+        "BANK": "Meghalaya Co-operative Apex Bank",
+        "IFSC": "MCAB0000001"
+    },
+    {
+        "BANK": "Mahanagar Co-operative Bank",
+        "IFSC": "MCBL0960001"
+    },
+    {
+        "BANK": "Mumbai District Central Co-operative Bank",
+        "IFSC": "MDCB0680001"
+    },
+    {
+        "BANK": "Malad Sahakari Bank",
+        "IFSC": "MSBL0000001"
+    },
+    {
+        "BANK": "Mizuho Bank",
+        "IFSC": "MHCB0000002"
+    },
+    {
+        "BANK": "Malkapur Urban Co-operative Bank",
+        "IFSC": "MKPB0000001"
+    },
+    {
+        "BANK": "Mashreq Bank",
+        "IFSC": "MSHQ0000001"
+    },
+    {
+        "BANK": "Maharashtra State Co-operative Bank",
+        "IFSC": "MSCI0082002"
+    },
+    {
+        "BANK": "Mehsana Urban Co-operative Bank",
+        "IFSC": "MSNU0000001"
+    },
+    {
+        "BANK": "Muslim Co-operative Bank",
+        "IFSC": "MSLM0000001"
+    },
+    {
+        "BANK": "Municipal Co-operative Bank",
+        "IFSC": "MUBL0000001"
+    },
+    {
+        "BANK": "Nilambur Co-operative Urban Bank",
+        "IFSC": "NCUB0000001"
+    },
+    {
+        "BANK": "Nagpur Nagarik Sahakari Bank",
+        "IFSC": "NGSB0000001"
+    },
+    {
+        "BANK": "Nav Jeevan Co-operative Bank",
+        "IFSC": "NJBK0000001"
+    },
+    {
+        "BANK": "Sir M Visvesvaraya Co-operative Bank",
+        "IFSC": "MVCB0000001"
+    },
+    {
+        "BANK": "New India Co-operative Bank",
+        "IFSC": "NICB0000001"
+    },
+    {
+        "BANK": "National Bank of Abu Dhabi PJSC",
+        "IFSC": "NBAD0000001"
+    },
+    {
+        "BANK": "NKGSB Co-operative Bank",
+        "IFSC": "NKGS0000001"
+    },
+    {
+        "BANK": "National Bank for Agriculture and Development",
+        "IFSC": "NBRD0000002"
+    },
+    {
+        "BANK": "North East Small Finance Bank",
+        "IFSC": "NESF0000001"
+    },
+    {
+        "BANK": "NSDL Payments Bank",
+        "IFSC": "NSPB0000001"
+    },
+    {
+        "BANK": "Nutan Nagarik Sahakari Bank",
+        "IFSC": "NNSB0000001"
+    },
+    {
+        "BANK": "Bank of Nova Scotia",
+        "IFSC": "NOSC0000DEL"
+    },
+    {
+        "BANK": "Navnirman Co-operative Bank",
+        "IFSC": "NVNM0000001"
+    },
+    {
+        "BANK": "Nasik Merchants Co-operative Bank",
+        "IFSC": "NMCB0000001"
+    },
+    {
+        "BANK": "Oriental Bank of Commerce",
+        "IFSC": "ORBC0100000"
+    },
+    {
+        "BANK": "Odisha State Co-operative Bank",
+        "IFSC": "ORCB0000001"
+    },
+    {
+        "BANK": "Gopinath Patil Parsik Janata Sahakari Bank",
+        "IFSC": "PJSB0000001"
+    },
+    {
+        "BANK": "Nagar Urban Co-operative Bank",
+        "IFSC": "NUCB0000001"
+    },
+    {
+        "BANK": "Prime Co-operative Bank",
+        "IFSC": "PMEC0000001"
+    },
+    {
+        "BANK": "Pandharpur Urban Co-operative Bank",
+        "IFSC": "PUCB0000001"
+    },
+    {
+        "BANK": "Pavana Sahakari Bank",
+        "IFSC": "PSBL0000001"
+    },
+    {
+        "BANK": "Pusad Urban Co-operative Bank",
+        "IFSC": "PUSD0000001"
+    },
+    {
+        "BANK": "Qatar National Bank",
+        "IFSC": "QNBA0000001"
+    },
+    {
+        "BANK": "Rabobank International",
+        "IFSC": "RABO0000001"
+    },
+    {
+        "BANK": "Paytm Payments Bank",
+        "IFSC": "PYTM0000001"
+    },
+    {
+        "BANK": "Nainital Bank",
+        "IFSC": "NTBL0AFZ162"
+    },
+    {
+        "BANK": "Reserve Bank of India",
+        "IFSC": "RBIP0NEFTBR"
+    },
+    {
+        "BANK": "RBL Bank",
+        "IFSC": "RATN0000001"
+    },
+    {
+        "BANK": "Rajkot Nagarik Sahakari Bank",
+        "IFSC": "RNSB0000001"
+    },
+    {
+        "BANK": "Reserve Bank of India",
+        "IFSC": "RBIS0AGPA01"
+    },
+    {
+        "BANK": "Rajnandgaon District Central Co-operative Bank",
+        "IFSC": "RDCB0000001"
+    },
+    {
+        "BANK": "Rajarshi Shahu Sahakari Bank",
+        "IFSC": "RSSB0000001"
+    },
+    {
+        "BANK": "Rajarambapu Sahakari Bank",
+        "IFSC": "RRBP0000001"
+    },
+    {
+        "BANK": "Rajgurunagar Sahakari Bank",
+        "IFSC": "RSBL0000001"
+    },
+    {
+        "BANK": "Rajasthan Marudhara Gramin Bank",
+        "IFSC": "RMGB0000001"
+    },
+    {
+        "BANK": "Sant Sopankaka Sahakari Bank",
+        "IFSC": "SANT0000001"
+    },
+    {
+        "BANK": "Rajasthan State Co-operative Bank",
+        "IFSC": "RSCB0000001"
+    },
+    {
+        "BANK": "Samarth Sahakari Bank",
+        "IFSC": "SBLS0000001"
+    },
+    {
+        "BANK": "Standard Chartered Bank",
+        "IFSC": "SCBL0036001"
+    },
+    {
+        "BANK": "Sree Charan Souhardha Co-operative Bank",
+        "IFSC": "SECB0000001"
+    },
+    {
+        "BANK": "Surat District Co-operative Bank",
+        "IFSC": "SDCB0000001"
+    },
+    {
+        "BANK": "Shinhan Bank",
+        "IFSC": "SHBK0000001"
+    },
+    {
+        "BANK": "Satara District Central Co-operative Bank",
+        "IFSC": "SDCE0000001"
+    },
+    {
+        "BANK": "SBER Bank",
+        "IFSC": "SABR0000001"
+    },
+    {
+        "BANK": "Shree Kadi Nagarik Sahakari Bank",
+        "IFSC": "SKNB0000001"
+    },
+    {
+        "BANK": "Solapur Janata Sahakari Bank",
+        "IFSC": "SJSB0000001"
+    },
+    {
+        "BANK": "Sindhudurg District Central Co-operative Bank",
+        "IFSC": "SIDC0000001"
+    },
+    {
+        "BANK": "Reserve Bank Of India",
+        "IFSC": "RBIN0RTGS00"
+    },
+    {
+        "BANK": "Sumitomo Mitsui Banking Corporation",
+        "IFSC": "SMBC0000001"
+    },
+    {
+        "BANK": "Shivalik Small Finance Bank",
+        "IFSC": "SMCB0000001"
+    },
+    {
+        "BANK": "Surat People's Co-operative Bank",
+        "IFSC": "SPCB0251001"
+    },
+    {
+        "BANK": "South Indian Bank",
+        "IFSC": "SIBL0000001"
+    },
+    {
+        "BANK": "Shikshak Sahakari Bank",
+        "IFSC": "SKSB0000001"
+    },
+    {
+        "BANK": "SBM Bank",
+        "IFSC": "STCB0000001"
+    },
+    {
+        "BANK": "Societe Generale",
+        "IFSC": "SOGE0INBB00"
+    },
+    {
+        "BANK": "Saraspur Nagrik Co-operative Bank",
+        "IFSC": "SNBK0000001"
+    },
+    {
+        "BANK": "Surat National Co-operative Bank",
+        "IFSC": "SUNB0000001"
+    },
+    {
+        "BANK": "Smriti Nagrik Sahakari Bank",
+        "IFSC": "SMNB0000001"
+    },
+    {
+        "BANK": "Suryoday Small Finance Bank",
+        "IFSC": "SURY0000001"
+    },
+    {
+        "BANK": "Suco Souharda Sahakari Bank",
+        "IFSC": "SUSB0000001"
+    },
+    {
+        "BANK": "Syndicate Bank",
+        "IFSC": "SYNB000RTGS"
+    },
+    {
+        "BANK": "Sutex Co-operative Bank",
+        "IFSC": "SUTB0000001"
+    },
+    {
+        "BANK": "Thane Bharat Sahakari Bank",
+        "IFSC": "TBSB0000001"
+    },
+    {
+        "BANK": "Ankola Urban Co-operative Bank",
+        "IFSC": "TAUB0000001"
+    },
+    {
+        "BANK": "SVC Co-operative Bank",
+        "IFSC": "SVCB0000001"
+    },
+    {
+        "BANK": "Banaskantha Mercantile Co-operative Bank",
+        "IFSC": "TBMC0000001"
+    },
+    {
+        "BANK": "Thane District Central Co-operative Bank",
+        "IFSC": "TDCB0000001"
+    },
+    {
+        "BANK": "Thrissur District Co-operative Bank",
+        "IFSC": "THRS0000001"
+    },
+    {
+        "BANK": "Tumkur Grain Merchant's Co-operative Bank",
+        "IFSC": "TGMB0000001"
+    },
+    {
+        "BANK": "The Malad Sahakari Bank",
+        "IFSC": "TMSB0000001"
+    },
+    {
+        "BANK": "Nawanagar Co-operative Bank",
+        "IFSC": "TNCB0000001"
+    },
+    {
+        "BANK": "TJSB Sahakari Bank",
+        "IFSC": "TJSB0000001"
+    },
+    {
+        "BANK": "Tamilnadu State Apex Co-operative Bank",
+        "IFSC": "TNSC0000001"
+    },
+    {
+        "BANK": "Tamilnad Mercantile Bank",
+        "IFSC": "TMBL0000001"
+    },
+    {
+        "BANK": "Punjab State Co-operative Bank",
+        "IFSC": "TPSC0000001"
+    },
+    {
+        "BANK": "Satara Shakari Bank",
+        "IFSC": "TSSB0000001"
+    },
+    {
+        "BANK": "Saraswat Co-operative Bank",
+        "IFSC": "SRCB0000001"
+    },
+    {
+        "BANK": "Shree Veershaiv Co-operative Bank",
+        "IFSC": "SVSH0000001"
+    },
+    {
+        "BANK": "Textile Traders Co-operative Bank",
+        "IFSC": "TTCB0000001"
+    },
+    {
+        "BANK": "Telangana State Co-operative Apex Bank",
+        "IFSC": "TSAB0000001"
+    },
+    {
+        "BANK": "Sahebrao Deshmukh Co-operative Bank",
+        "IFSC": "SAHE0000001"
+    },
+    {
+        "BANK": "United Bank of India",
+        "IFSC": "UTBI0HOA139"
+    },
+    {
+        "BANK": "Uttar Pradesh Co-operative Bank",
+        "IFSC": "UPCB0000001"
+    },
+    {
+        "BANK": "Urban Co-operative Bank Perinthalmanna",
+        "IFSC": "URBN0000001"
+    },
+    {
+        "BANK": "Ujjivan Small Finance Bank",
+        "IFSC": "UJVN0000001"
+    },
+    {
+        "BANK": "Udaipur Urban Co-operative Bank",
+        "IFSC": "UUCB0000001"
+    },
+    {
+        "BANK": "Varachha Co-operative Bank",
+        "IFSC": "VARA0000001"
+    },
+    {
+        "BANK": "Vijaya Bank",
+        "IFSC": "VIJB0009502"
+    },
+    {
+        "BANK": "Vasai Janata Sahakari Bank",
+        "IFSC": "VASJ0000001"
+    },
+    {
+        "BANK": "Utkarsh Small Finance Bank",
+        "IFSC": "UTKS0000001"
+    },
+    {
+        "BANK": "United Overseas Bank",
+        "IFSC": "UOVB0000001"
+    },
+    {
+        "BANK": "Vishweshwar Sahakari Bank",
+        "IFSC": "VSBL0000001"
+    },
+    {
+        "BANK": "Vasai Vikas Sahakari Bank",
+        "IFSC": "VVSB0000001"
+    },
+    {
+        "BANK": "Zila Sahakari Bank Ghaziabad",
+        "IFSC": "ZSBL0000001"
+    },
+    {
+        "BANK": "West Bengal State Co-operative Bank",
+        "IFSC": "WBSC0000001"
+    },
+    {
+        "BANK": "Zoroastrian Co-operative Bank",
+        "IFSC": "ZCBL0000001"
+    },
+    {
+        "BANK": "Vijay Co-operative Bank",
+        "IFSC": "VCOB0000001"
+    },
+    {
+        "BANK": "Bandhan Bank",
+        "IFSC": "BDBL0000001"
+    },
+    {
+        "BANK": "Gujarat State Co-operative Bank",
+        "IFSC": "GSCB0000001"
+    },
+    {
+        "BANK": "Indusind Bank",
+        "IFSC": "INDB0000001"
+    },
+    {
+        "BANK": "Federal Bank",
+        "IFSC": "FDRL0000001"
+    },
+    {
+        "BANK": "Kotak Mahindra Bank",
+        "IFSC": "KKBK0000131"
+    },
+    {
+        "BANK": "Bank of Maharashtra",
+        "IFSC": "MAHB0000001"
+    },
+    {
+        "BANK": "Pragathi Krishna Gramin Bank",
+        "IFSC": "PKGB0000001"
+    },
+    {
+        "BANK": "Punjab & Sind Bank",
+        "IFSC": "PSIB0000001"
+    },
+    {
+        "BANK": "UCO Bank",
+        "IFSC": "UCBA0000001"
+    },
+    {
+        "BANK": "Yes Bank",
+        "IFSC": "YESB0000001"
+    },
+    {
+        "BANK": "IDBI",
+        "IFSC": "IBKL0000001"
+    },
+    {
+        "BANK": "Indian Overseas Bank",
+        "IFSC": "IOBA0000002"
+    },
+    {
+        "BANK": "Central Bank of India",
+        "IFSC": "CBIN0011102"
+    },
+    {
+        "BANK": "Indian Bank",
+        "IFSC": "IDIB000A001"
+    },
+    {
+        "BANK": "Axis Bank",
+        "IFSC": "UTIB0000001"
+    },
+    {
+        "BANK": "ICICI Bank",
+        "IFSC": "ICIC0000001"
+    },
+    {
+        "BANK": "Bank of India",
+        "IFSC": "BKID0000001"
+    },
+    {
+        "BANK": "HDFC Bank",
+        "IFSC": "HDFC0000001"
+    },
+    {
+        "BANK": "Bank of Baroda",
+        "IFSC": "BARB0AAMBUR"
+    },
+    {
+        "BANK": "Union Bank of India",
+        "IFSC": "UBIN0530018"
+    },
+    {
+        "BANK": "Canara Bank",
+        "IFSC": "CNRB0000002"
+    },
+    {
+        "BANK": "Punjab National Bank",
+        "IFSC": "PUNB0000010"
+    },
+    {
+        "BANK": "State Bank of India",
+        "IFSC": "SBIN0000001"
+    }
+]

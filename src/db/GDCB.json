@@ -1,0 +1,20 @@
+{
+  "GDCB0000001": {
+    "BANK": "Gadchiroli District Central Co-operative Bank",
+    "IFSC": "GDCB0000001",
+    "BRANCH": "Gadchiroli District Central Co-operative Bank IMPS",
+    "CENTRE": "GADCHIROLI",
+    "DISTRICT": "GADCHIROLI",
+    "STATE": "MAHARASHTRA",
+    "ADDRESS": "NEAR BUS STOP, DHANORA ROAD",
+    "CONTACT": "+917132232965",
+    "IMPS": true,
+    "CITY": "MUMBAI",
+    "UPI": true,
+    "MICR": "442833204",
+    "RTGS": true,
+    "NEFT": true,
+    "SWIFT": null,
+    "ISO3166": "IN-MH"
+  }
+}
