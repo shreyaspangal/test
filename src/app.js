@@ -180,7 +180,7 @@ function generateBankStates(bankName) {
 }
 
 function getBankStates() {
-    const data = fs.readFileSync(path.join(__dirname, 'data', 'BANK_STATES.json'), 'utf-8');
+    const data = fs.readFileSync(path.join("src", 'data', 'BANK_STATES.json'), 'utf-8');
     // console.log('Read Bank State Names');
     return data;
 }
