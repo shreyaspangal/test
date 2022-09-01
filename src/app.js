@@ -161,7 +161,7 @@ function generateBankStates(bankName) {
 
     console.log(`${getFileName}.json`);
 
-    const data = fs.readFileSync(path.join("src", 'db', `${getFileName}.json`), 'utf-8');
+    const data = fs.readFileSync(`./db/${getFileName}.json`, 'utf-8');
 
     const bankObject = JSON.parse(data);
     const bankEntries = Object.entries(bankObject);
@@ -180,7 +180,7 @@ function generateBankStates(bankName) {
 }
 
 function getBankStates() {
-    const data = fs.readFileSync(path.join("src", 'data', 'BANK_STATES.json'), 'utf-8');
+    const data = fs.readFileSync('./data/BANK_STATES.json', 'utf-8');
     // console.log('Read Bank State Names');
     return data;
 }
