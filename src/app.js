@@ -161,7 +161,7 @@ function generateBankStates(bankName) {
 
     console.log(`${getFileName}.json`);
 
-    const data = fs.readFileSync(path.join(__dirname, 'db', `${getFileName}.json`), 'utf-8');
+    const data = fs.readFileSync(path.join("src", 'db', `${getFileName}.json`), 'utf-8');
 
     const bankObject = JSON.parse(data);
     const bankEntries = Object.entries(bankObject);
